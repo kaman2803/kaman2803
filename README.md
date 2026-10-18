@@ -2,7 +2,7 @@
 **Administrateur Réseaux & Systèmes | Cloud & Infrastructure IT | Certifié Cisco CCNA**
 
 📍 Dakar, Sénégal  
-🎓 Master 2 Réseaux et Systèmes Informatiques (ISI Dakar)  
+🎓 Master 2 Réseaux et Systèmes Informatiques (Institut Supérieur d'Informatique ISI-Dakar)  
 📜 Certifications : **Cisco CCNA** | **Scrum Fundamentals Certified (SFC™)**  
 
 ---
@@ -39,13 +39,18 @@ Je développe une compétence polyvalente couvrant l'administration système Lin
 
 ---
 
-## Quelques Projets Techniques
+## Projets détaillés
 
-- ** Infrastructure Cloud Privée & HA (Proxmox VE + Ceph) :** Cluster à 3 nœuds, migration à chaud, automatisation via Terraform.
-- ** SD-WAN & Sécurité Réseau Multi-WAN (FortiGate) :** Cluster FortiGate HA Active-Active, VPN IPsec/SSL-VPN et routage SD-WAN.
-- ** Projet SOC Open Source & Automation :** Intégration de Wazuh, Suricata, MISP, TheHive, Cortex et n8n pour l'enrichissement d'IoC et la réponse automatique aux alertes.
-- ** Infrastructure Active Directory Windows Server 2022 :** Déploiement complet, automatisation de comptes via PowerShell, GPO et intégration de postes Linux.
-- ** SmartTask - Microservices CI/CD & DevOps :** Conteneurisation Docker/Docker Compose et pipeline CI/CD automatisée avec Jenkins et GitHub.
+Retrouvez mes réalisations techniques en réseaux, systèmes, cybersécurité, virtualisation et automatisation à travers les dépôts GitHub suivants.
+
+- **Infrastructure Cloud Privée & Haute Disponibilité (Proxmox VE + Ceph)** : Cluster Proxmox VE à 3 nœuds, stockage distribué Ceph, migration à chaud, haute disponibilité, sauvegardes avec Proxmox Backup Server et automatisation avec Terraform. [📄 Consulter le rapport technique (PDF)](https://github.com/kaman2803/proxmox-cloud-ha/blob/main/Kaman-GOUMOU-Rapport-Proxmox.pdf) | [📂 Voir le dépôt du projet](https://github.com/kaman2803/proxmox-cloud-ha)
+- **SD-WAN & Sécurité Réseau Multi-WAN (FortiGate)** — [Voir le projet](URL_DU_PROJET)
+- **Plateforme SOC Open Source & Automatisation** — [Voir le projet](URL_DU_PROJET)
+- **Infrastructure Active Directory Multi-Site & Haute Disponibilité** — [Voir le projet](URL_DU_PROJET)
+- **SmartTask – Microservices, Docker & CI/CD avec Jenkins** — [Voir le projet](URL_DU_PROJET)
+- **Supervision d’infrastructure avec Zabbix** — [Voir le projet](URL_DU_PROJET)
+- **Automatisation du déploiement Zabbix avec Ansible** — [Voir le projet](URL_DU_PROJET)
+- **Automatisation d’infrastructure avec Ansible** — [Voir le projet](URL_DU_PROJET)
 
 ---
 
@@ -53,4 +58,4 @@ Je développe une compétence polyvalente couvrant l'administration système Lin
 
 - **LinkedIn :** [linkedin.com/in/kgoumou](https://www.linkedin.com/in/kgoumou)
 - **GitHub :** [github.com/kaman2803](https://github.com/kaman2803)
-- **Email :** goumoukaman2803@gmail.com
+- **Email :** goumoukaman2803@gmail.com / kamandk@groupeisi.com
