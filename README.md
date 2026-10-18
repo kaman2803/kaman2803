@@ -9,9 +9,15 @@
 
 ## À propos de moi
 
-Diplômé en **Licence MIAGE** et actuellement en **Master 2 Réseaux et Systèmes Informatiques**, je suis passionné par la conception, l'automatisation, la sécurisation et la haute disponibilité des infrastructures informatiques. 
+Titulaire d’une **Licence MIAGE** et actuellement en **Master 2 Réseaux et Systèmes Informatiques**, je construis mon parcours autour de l’administration des systèmes et réseaux, de la conception des infrastructures IT et de leur sécurisation.
 
-Je développe une compétence polyvalente couvrant l'administration système Linux & Windows, le routage/commutation, la sécurité réseau (FortiGate), la virtualisation/Cloud (Proxmox, Ceph), ainsi que la culture DevOps et SOC Open Source.
+Mon expérience dans le secteur de la microfinance m’a permis de travailler avec un système d’information métier et de mesurer l’importance de la **fiabilité, de la traçabilité et de la gestion des données**. Cette expérience m’a conduit à approfondir mes connaissances en administration des bases de données, puis à me spécialiser progressivement dans les réseaux et les systèmes.
+
+**Certifié Cisco CCNA**, je développe des compétences en administration Linux et Windows, routage et commutation, sécurité réseau avec FortiGate, virtualisation et cloud privé avec Proxmox VE et Ceph, ainsi qu’en automatisation des infrastructures avec Ansible et Terraform. Je m’intéresse également aux pratiques DevOps, à la supervision et aux solutions de sécurité SOC open source.
+
+À travers mes projets pratiques, je cherche à concevoir des infrastructures **fiables, sécurisées, automatisées et hautement disponibles**.
+
+Mon objectif professionnel est de mettre ces compétences au service du développement des infrastructures numériques et de la modernisation des systèmes d’information en Guinée.
 
 ---
 
